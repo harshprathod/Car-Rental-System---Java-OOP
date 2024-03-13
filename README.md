@@ -1,31 +1,35 @@
-# 🚗 Vehicle Rental Platform
+# 🚗 Car Rental System
 
-Embark on a journey into the world of vehicle rentals with the **Vehicle Rental Platform**, an immersive Java-based console application designed to provide a seamless rental experience. 🌟
+Welcome to the **Vehicle Rental System**, a comprehensive Java-based console application that revolutionizes the vehicle rental experience. 🌟
 
-## Key Features
+## Overview
 
-🚀 Rent a Vehicle: Enjoy the convenience of renting various types of vehicles through an intuitive console interface.
-🔁 Return a Vehicle: Easily return previously rented vehicles and update their availability for other customers.
-👤 Customer Management: Add, view, and manage customer profiles to maintain a personalized rental experience.
-🚗 Vehicle Management: Efficiently manage vehicle details, including brands, models, types, and rental pricing.
-📝 Rental History: Keep track of rental transactions, customer histories, and rental durations for better insights.
+The Vehicle Rental System offers a user-friendly interface for renting and managing vehicles, providing seamless navigation and efficient rental management.
+
+## Features
+
+🚀 **Rent a Vehicle**: Rent various types of vehicles with ease through an intuitive console interface.
+🔁 **Return a Vehicle**: Effortlessly return previously rented vehicles and update availability for other customers.
+👤 **Customer Management**: Add, view, and manage customer profiles for a personalized rental experience.
+🚗 **Vehicle Management**: Efficiently manage vehicle details, including brands, models, types, and rental pricing.
+📝 **Rental History**: Keep track of rental transactions, customer histories, and rental durations for better insights.
 
 ## Getting Started
 
-1. **Clone the Repository**: `https://github.com/harshprathod/Car-Rental-System---Java-OOP.git`
+1. **Clone the Repository**: `git clone https://github.com/harshprathod/Car-Rental-System---Java-OOP.git`
 2. **Navigate to the Project Directory**: `cd Car-Rental-System---Java-OOP/Project/src`
 3. **Compile and Run the Application**: `javac Main.java` followed by `java Main`
 
 ## Contributions Welcome! 🎉
 
-Join us in shaping the future of vehicle rentals. Contribute by opening issues, submitting pull requests, and collaborating with fellow developers.
+Contribute to the Vehicle Rental System's development by opening issues, submitting pull requests, and collaborating with fellow developers.
 
-## Future Enhancements 🛤️
+## Future Roadmap 🛤️
 
-🤝 Enable support for multiple customers renting the same vehicle simultaneously.
-⏰ Implement dynamic pricing adjustments based on factors such as vehicle popularity and rental demand.
-🎨 Develop a modern graphical user interface (GUI) for an enhanced and visually appealing user experience.
+🤝 **Multi-Customer Support**: Enable multiple customers to rent the same vehicle simultaneously.
+⏰ **Dynamic Pricing**: Implement dynamic pricing adjustments based on vehicle popularity and rental demand.
+🎨 **Graphical User Interface (GUI)**: Develop a modern GUI for an enhanced and visually appealing user experience.
 
 ---
 
-Experience the thrill of renting and returning vehicles while honing your object-oriented programming skills. Step into the Vehicle Rental Platform and drive towards a brighter future! 🚗💨
+Experience the convenience and efficiency of vehicle rentals with the Vehicle Rental System. Join us in shaping the future of vehicle rental management! 🚗💨
